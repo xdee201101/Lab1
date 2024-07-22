@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "1048439440874",
+    "project_id": "todolistapp-fc176",
+    "storage_bucket": "todolistapp-fc176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048439440874:android:23e2eedd233ec78e125e93",
+        "android_client_info": {
+          "package_name": "com.xdee.demo01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048439440874-i6o96p8143rg7o733lfjt7ejs1viqrg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByNPeQ1DAw9AFAIPiIXUmxF128MrwHykM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048439440874-i6o96p8143rg7o733lfjt7ejs1viqrg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048439440874:android:773ac3fdf63b4e6a125e93",
+        "android_client_info": {
+          "package_name": "com.xdee.lab1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048439440874-i6o96p8143rg7o733lfjt7ejs1viqrg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByNPeQ1DAw9AFAIPiIXUmxF128MrwHykM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048439440874-i6o96p8143rg7o733lfjt7ejs1viqrg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048439440874:android:f3a4646d014e2e33125e93",
+        "android_client_info": {
+          "package_name": "datnxph36362.fpoly.todolistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048439440874-quvcp48k48s4ahcd3vdma95fm3gt0r84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "datnxph36362.fpoly.todolistapp",
+            "certificate_hash": "0e7d2c6668e8aca6d45d21d6b803e474c63cd4bd"
+          }
+        },
+        {
+          "client_id": "1048439440874-i6o96p8143rg7o733lfjt7ejs1viqrg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByNPeQ1DAw9AFAIPiIXUmxF128MrwHykM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048439440874-i6o96p8143rg7o733lfjt7ejs1viqrg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
